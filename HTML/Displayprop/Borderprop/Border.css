@@ -1,0 +1,17 @@
+section{
+    /* height: 200px; */
+    width: 70%;
+    margin: auto;
+    border-style: dashed dotted double;
+    border-color: rgb(11, 10, 11);
+
+    border-top-width: 6px;
+    border-bottom-width: 6px;
+    border-left-width: 6px;
+    border-right-width: 6px;
+
+    border-top-color: rgb(97, 52, 52);
+    border-bottom-color: rgb(220, 220, 13);
+    border-left-color: rgb(12, 226, 155);
+    border-right-color: rgb(104, 12, 165);
+}

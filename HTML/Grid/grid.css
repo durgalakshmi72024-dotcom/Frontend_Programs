@@ -1,0 +1,21 @@
+.para{
+    display: grid;
+
+    /* grid-template-columns: 250px 250px 250px 250px; */
+    /* grid-template-columns: repeat(4,200px); */
+     /* grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))     */
+    /* grid-template-columns: repeat(4,1fr); */
+    grid-template-columns: minmax(200px,1fr) 1fr 1fr;
+}
+.box-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    row-gap: 10px;
+}
+.box{
+    border: 2px solid black;
+    width: 80px;
+    height: 90px;
+    background-color: black;
+    color: aliceblue;
+}

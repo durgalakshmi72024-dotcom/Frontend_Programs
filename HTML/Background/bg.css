@@ -1,0 +1,27 @@
+.main-container{
+    height: 700px;
+    background-image: url(https://preview.colorlib.com/theme/foodfun/assets/images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+body{
+    padding: 0px;
+    margin: 0;
+}
+.nav-bar{
+    height: 60px;
+    width: 800px;
+    background-color: white;
+    display: flex;
+}
+.img-nav{
+    height: 30px;
+    
+}
+.nav-text{
+    list-style-type: none;
+    display: inline-block;
+
+    
+}

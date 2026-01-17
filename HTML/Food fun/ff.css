@@ -1,0 +1,28 @@
+.main-container{
+   display: flex;
+   /* justify-content: center; */
+   padding-left: 90px;
+   padding-top: 13px;
+   /* gap: 80px; */
+
+}
+.img{
+   height: 510px;
+   width: 510px;
+   justify-content: center;
+}
+.des-content{
+    padding-left: 40px;
+    padding-top: 70px;
+}
+.booking-button{
+    height: 45px;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: rgb(233, 159, 57);
+    border: none;
+}
+h2{
+    
+}

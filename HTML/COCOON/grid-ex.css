@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.main-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.box{
+    height:100%;
+    width: 100%;
+    /* border: 2px solid black;-[ */
+}
+.img1{
+    grid-row: span 2;
+}
+.img2{
+    grid-column: span 2;
+}
+.img9{
+    grid-column: span 2;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}

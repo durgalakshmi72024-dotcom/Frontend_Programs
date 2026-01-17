@@ -1,0 +1,33 @@
+p{
+     /* text-align: center; 
+    color: rgb(10, 10, 10);
+    color: #0d0d0e; */
+
+
+    /* text-align:center; 
+     direction:ltr; */
+
+    text-transform: capitalize;
+    /* text-transform: lowercase; */
+      /* text-transform: uppercase; */
+
+    /* text-indent: 5cm; 
+     letter-spacing: 5px; */
+    /* word-spacing: 10px;
+    line-height: 25px; */
+
+    /* white-space: nowrap; */
+
+    text-decoration-line: line-through;
+    /* text-decoration-line: overline; */
+    /* text-decoration-line: underline; */
+
+    /* text-decoration-color: aqua;
+    text-decoration-thickness: 3px; */
+
+    /* text-decoration-style: dashed; */
+    /* text-decoration-style: dotted; */
+
+
+   /* text-decoration: overline solid 5px rgb(17, 17, 17);
+}
