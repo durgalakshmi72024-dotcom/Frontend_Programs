@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 .nav-bar {
     padding: 3px;
@@ -60,12 +60,6 @@ ul li {
 }
 .img3 {
     grid-row: span 2;
-}
-.date-box {
-    background-color: rgba(54, 52, 52, 0.406);
-    color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
 }
 .data-box1{
     position: relative;
@@ -200,10 +194,11 @@ ul li {
 }
 
 .img-sec3 {
-    padding-top: 70px;
-    padding-left: 50px;
+    /* padding-top: 70px; */
+    /* padding-left: 50px; */
     display: flex;
     position: relative;
+    width: 40%;
 }
 
 .img6 {
