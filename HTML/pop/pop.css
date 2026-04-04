@@ -5,7 +5,7 @@ body {
     font-family: sans-serif;
 }
 .nav-bar {
-    padding: 3px;
+    /* padding: 3px; */
     width: 100%;
     background-color: rgb(227, 228, 229);
     justify-content: space-around;
@@ -191,7 +191,9 @@ ul li {
      font-size: 12px;
 }
 .cont-5{
-    font-size: 12px;
+    color: #959393b1;
+    opacity: 0.5;
+    font-size: 14px;
 }
 .cont-2{
     font-size: 18px;
@@ -466,7 +468,7 @@ input[type="checkbox"] {
     text-align: center;
     padding: 30px 0 25px;
 }
-.ft-last-cont{
+.ft-last-cont{  
     text-align: center;
 }
 .ft-text{
